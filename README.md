@@ -3,7 +3,7 @@
 Built from the [LazyVim](https://github.com/LazyVim/LazyVim) started template.
 Refer to the LazyVim [documentation](https://lazyvim.github.io/installation) to get started.
 
-Clone this repo in your `.config` folder.
+If you would like to start from this repo, clone this project in your `.config` folder.
 
 ## Installation
 
